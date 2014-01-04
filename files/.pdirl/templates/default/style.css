@@ -28,28 +28,28 @@ table td.mtime {
 div.total {
 	background: #f8f8f8; padding: 2px; 
 	}
-#headerwrap {
+breadcrumbwrap {
 	background: #083844; padding: 10px 10px 5px; border-bottom: 5px solid #D6C47C; 
 	}
-#header {
+breadcrumb {
 	width: 700px; margin: 0px auto; color: #FFF3CF; 
 	}
-#header a {
+breadcrumb a {
 	font-size:inherit; color: #DFD999; 
 	}
-#header a:hover {
+#breadcrumb a:hover {
 	color: #CFC98E; 
 	}
-#header ul {
+#breadcrumb ul {
 	list-style-type: none; 
 	}
-#header ul li {
+#breadcrumb ul li {
 	float: left; margin-right: 5px; font-size: 15px; 
 	}
-#header ul a {
+#breadcrumb ul a {
 	font-size: inherit; 
 	}
-#contentwrap {
+dirwrap {
 	margin: 20px auto; padding: 0; width: 700px; box-shadow: 0px 0px 10px #999;
 	}
 #nothing {
