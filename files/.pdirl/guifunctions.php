@@ -275,7 +275,7 @@
 		// path: bla/bla/
 		$scriptDirPath = implode('/', $scriptDirPath);
 		$breadcrumbPath = sprintf('%s/%s<a href="%s/%s/">%s</a>%s',
-			host($link = true),
+			host($link = false),
 			path($scriptDirPath),
 			$scriptDirPath,
 			$scriptFolder,
