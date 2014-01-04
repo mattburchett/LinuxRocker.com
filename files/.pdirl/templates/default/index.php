@@ -24,13 +24,9 @@
       <section>
         <header id="title">
           <h1>LinuxRocker</h1>
-          <h2>Try not to die.</h2>
+          <h2>You are in a restricted area! Be careful!</h2>
         </header>
         <hr />
-
-        <h1>
-          <a name="Welcome" class="anchor" href="#whoandwhere"><span class="octicon octicon-link"></span></a>Welcome
-        </h1>
 
           <p class="tab"><?php include 'pdirl.php' ?></p>
 
