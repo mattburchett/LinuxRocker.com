@@ -707,10 +707,10 @@ sub {
 dl,
 menu,
 ol,
-ul {
+/* ul {
   margin: 1em 0;
 }
-
+*/
 dd {
   margin: 0 0 0 40px;
 }
@@ -720,10 +720,10 @@ dd {
  */
 menu,
 ol,
-ul {
+/*ul {
   padding: 0 0 0 40px;
 }
-
+*/
 /*
  * Corrects list images handled incorrectly in IE7
  */
@@ -991,9 +991,9 @@ a small {
   display: block;
 }
 
-ul {
+/*ul {
   list-style-image: url("../images/bullet.png");
-}
+}*/
 
 
 strong {
